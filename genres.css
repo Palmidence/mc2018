@@ -1,0 +1,95 @@
+.dot-dnb {
+  height: 25px;
+  width: 25px;
+  background-color: #F21904;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.dot-trap {
+  height: 25px;
+  width: 25px;
+  background-color: #8C0F27;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.dot-house {
+  height: 25px;
+  width: 25px;
+  background-color: #EA8C00;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.dot-harddance {
+  height: 25px;
+  width: 25px;
+  background-color: #019700;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.dot-electro {
+  height: 25px;
+  width: 25px;
+  background-color: #E6CE00;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.dot-glitch {
+  height: 25px;
+  width: 25px;
+  background-color: #0B9757;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.dot-disco {
+  height: 25px;
+  width: 25px;
+  background-color: #1CABB3;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.dot-futurebass {
+  height: 25px;
+  width: 25px;
+  background-color: #9A98FC;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.dot-trance {
+  height: 25px;
+  width: 25px;
+  background-color: #007EE7;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.dot-dubstep {
+  height: 25px;
+  width: 25px;
+  background-color: #8D04E1;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.dot-drumstep {
+  height: 25px;
+  width: 25px;
+  background-color: #F32188;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.dot-electronic {
+  height: 25px;
+  width: 25px;
+  background-color: #C1C1C1;
+  border-radius: 50%;
+  display: inline-block;
+}
