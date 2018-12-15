@@ -93,3 +93,75 @@
   border-radius: 50%;
   display: inline-block;
 }
+
+.text-dnb {
+  color: #F21904;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.text-electro {
+  color: #E6CE00;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.text-house {
+  color: #EA8C00;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.text-trap {
+  color: #8C0F27;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.text-dubstep {
+  color: #8D04E1;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.text-harddance {
+  color: #019700;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.text-trance {
+  color: #007EE7;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.text-disco {
+  color: #1CABB3;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.text-futurebass {
+  color: #9A98FC;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.text-drumstep {
+  color: #F32188;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.text-electronic {
+  color: #C1C1C1;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.text-glitch {
+  color: #0B9757;
+  border-radius: 50%;
+  display: inline-block;
+}
